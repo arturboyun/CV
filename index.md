@@ -30,17 +30,17 @@ Python Developer
 
 ### Dniprovsk State Technical University
 
-->_2019 - 2022_
+_2019 to 2022 - Dnepr, Kamyanske_
 
-**Bachelor of Software Engineering**,  _Dnepr, Kamyanske_
+**Bachelor of Software Engineering**
 
 Site: [DSTU.DP.UA](https://www.dstu.dp.ua/)
 
 ### Kamyansky state power engineering College
 
-->_2015 - 2019_
+_2015 to 2019 - Dnepr, Kamyanske_
 
-**Geodesy and land management**,  _Dnepr, Kamyanske_
+**Geodesy and land management**
 
 Site: [DNDZDET.COM](https://www.dndzdet.com/)
 
@@ -48,11 +48,9 @@ Site: [DNDZDET.COM](https://www.dndzdet.com/)
 
 ### Idealogic
 
-->_Zaporozhye_
+_Nov 2021 to Present - Zaporozhye_ 
 
 **Python Backend Developer**
-
-->_Nov 2021 to Present_
 
 - Maintain and improve code in existing projects.
 - Writing integrations for different services.
@@ -63,11 +61,9 @@ Site: [DNDZDET.COM](https://www.dndzdet.com/)
 
 ### Labyrinth
 
-->_Dnepr, Kamyanske_
+_Feb 2021 to Nov 2021 - Kyiv_
 
 **Python Full-Stack Developer**
-
-->_Feb 2021 to Nov 2021_
 
 - Maintain and improve existing code.
 - Adding integrations with various services such as Slack, MS Teams, Splunk, IBM
@@ -80,11 +76,9 @@ Qradar SIEM, Telegram, SMTP etc.
 
 ### Freelance
 
-->_Dnepr, Kamyanske_
+_Jun 2018 to Feb 2021 - Dnepr, Kamyanske_
 
 **Python Full-Stack Developer**
-
-->_Jun 2018 to Feb 2021_
 
 - Creating web applications for businesses.
 - Bot creation for social networks such as Telegram, Facebook, and Instagram.
